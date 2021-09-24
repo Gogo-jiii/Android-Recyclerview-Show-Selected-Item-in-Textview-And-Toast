@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Recyclerview Show Selected Item In Textview"
